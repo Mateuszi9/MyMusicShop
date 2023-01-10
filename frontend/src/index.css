@@ -42,3 +42,12 @@ main {
 .product-info {
   padding: 1rem;
 }
+
+.img-large {
+  max-width: 100%;
+}
+
+.div-img-large {
+  display: flex;
+  justify-content: center;
+}

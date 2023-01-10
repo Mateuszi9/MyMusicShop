@@ -11,7 +11,7 @@ const data = {
       musicLabel: 'Moya Label',
       rating: 4.5,
       numReviews: 10,
-      descriprion: 'High quality music',
+      description: 'High quality music',
     },
     {
       name: 'Zbiór Pieśni Sycylijskich',
@@ -24,7 +24,7 @@ const data = {
       musicLabel: 'Moya Label',
       rating: 4,
       numReviews: 23,
-      descriprion: 'High quality music',
+      description: 'High quality music',
     },
     {
       name: 'Native',
@@ -37,7 +37,7 @@ const data = {
       musicLabel: 'Universal Music',
       rating: 3,
       numReviews: 40,
-      descriprion: 'High quality music',
+      description: 'High quality music',
     },
     {
       name: 'Music Of The Spheres',
@@ -50,7 +50,7 @@ const data = {
       musicLabel: 'Warner Music',
       rating: 2,
       numReviews: 7,
-      descriprion: 'High quality music',
+      description: 'High quality music',
     },
   ],
 };
